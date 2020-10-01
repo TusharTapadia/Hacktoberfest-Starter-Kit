@@ -7,7 +7,7 @@ Celebrate Hacktoberfest(https://hacktoberfest.digitalocean.com/) by getting invo
 
 This repository is open to all members of the GitHub community. Any member may contribute to this project without being a collaborator.
 
-[https://tushartapadia.github.io/hacktoberfest/](https://alicewonderland.github.io/hacktoberfest/)
+(https://github.com/TusharTapadia/Hacktoberfest-Starter-Kit.git/)
 
 ## What is Hacktoberfest?
 A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](https://hacktoberfest.digitalocean.com/) and [GitHub](https://github.com/blog/2433-celebrate-open-source-this-october-with-hacktoberfest) to get people involved in [Open Source](https://github.com/open-source). Create your very first pull request to any public repository on GitHub and contribute to the open source developer community.
@@ -95,39 +95,18 @@ Your School
 ### 3. Create a `Hello, World!` Script
 Add a `hello_world_yourusername.xx` script to the `scripts` directory in any language of your choice! Here is an example:
 
-```Javascript
-// LANGUAGE: Javascript
-// ENV: Node.js
-// AUTHOR: Alice Chuang
-// GITHUB: https://github.com/AliceWonderland
+```Swift
+// LANGUAGE: Swift
+// AUTHOR: Tushar Tapadia
+// GITHUB: https://github.com/TusharTapadia
 
-console.log('Hello, World!');
+print("Hello, World!")
 ```
 
-Name the file `hello_world_yourusername.xx`. e.g., `hello_world_alicewonderland.js` or `hello_world_alicewonderland.py`.
+Name the file `hello_world_yourusername.xx`. e.g., `hello_world_tushartapadia.js` or `hello_world_tushartapadia.py`.
 
 Don't forget to include the comments as seen above. Feel free to include additional information about the language you choose in your comments too! Like a link to a helpful introduction or tutorial. 
 
-Here is my `hello_world` example: [hello_world_alicewonderland.js](https://github.com/AliceWonderland/hacktoberfest/blob/master/scripts/hello_world_alicewonderland.js)
+### 4. References 
 
-## BONUS!
-* See profiles submitted by fellow coders from around the globe ... from Kathmandu to Copenhagen.
-* Discover some obscure to new and trending languages ... from BrainFuck to Groovy.
-* Check out some very creative ways to print out a "Hello, World!" string.
 
-## Reference links
-Here is a great tutorial for creating your first pull request by [Roshan Jossey](https://github.com/Roshanjossey):
-[https://github.com/Roshanjossey/first-contributions](https://github.com/Roshanjossey/first-contributions)
-
-Managing your Forked Repo: [https://help.github.com/articles/fork-a-repo/](https://help.github.com/articles/fork-a-repo/)
-
-Syncing a Fork: [https://help.github.com/articles/syncing-a-fork/](https://help.github.com/articles/syncing-a-fork/)
-
-Keep Your Fork Synced: [https://gist.github.com/CristinaSolana/1885435](https://gist.github.com/CristinaSolana/1885435)
-
-Checkout this list for README examples - Awesome README [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-
-Github-Flavored Markdown [https://guides.github.com/features/mastering-markdown/](https://guides.github.com/features/mastering-markdown/)
-
-## Additional references added by contributors
-GitHub license explained [https://choosealicense.com](https://choosealicense.com)
