@@ -103,7 +103,7 @@ Add a `hello_world_yourusername.xx` script to the `scripts` directory in any lan
 print("Hello, World!")
 ```
 
-Name the file `hello_world_yourusername.xx`. e.g., `hello_world_tushartapadia.js` or `hello_world_tushartapadia.py`.
+Name the file `hello_world_yourusername.xx`. e.g., `hello_world_tushartapadia.swift` or `hello_world_tushartapadia.py` etc.
 
 Don't forget to include the comments as seen above. Feel free to include additional information about the language you choose in your comments too! Like a link to a helpful introduction or tutorial. 
 
